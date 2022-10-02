@@ -1,4 +1,4 @@
-# Discord-Reporter
+# Xmas-Mass-Reporter
 Repeatedly reports a user on Discord.
 
 ## Information
